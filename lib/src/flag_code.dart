@@ -87,7 +87,7 @@ class FlagCode {
     'gb': 'GB',
     'gb-eng': 'GB-ENG',
     'gb-nir': 'GB-NIR',
-    'gb-wls': 'GB-WLS',
+    'gb-wl': 'GB-WLS',
     'gd': 'GD',
     'ge': 'GE',
     'gf': 'GF',
